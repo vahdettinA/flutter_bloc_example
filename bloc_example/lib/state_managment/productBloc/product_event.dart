@@ -1,0 +1,4 @@
+enum ProductEvent {
+  insert,
+  delete,
+}
